@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Luka
-### Professional Ski Jumper | Backend Developer | Lifelong Learner
 
 Welcome to my GitHub profile! I'm a **19-year-old coder from Kranj, Slovenia**, who balances a passion for **technology** with the thrill of **soaring through the skies** as a professional ski jumper. My tech journey began at the age of 13, and since then, I've been captivated by the art of **backend development**. I thrive on creating **scalable, efficient systems** and tackling complex challenges head-on.
 
